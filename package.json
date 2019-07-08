@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
+    "vgauge": "^1.2.5-rc.2",
     "vue": "^2.6.10"
   },
   "devDependencies": {
